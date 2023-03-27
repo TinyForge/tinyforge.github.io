@@ -78,10 +78,10 @@ theme_mode: [dark]
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn: "https://github.com/TinyForge/tinyforge.github.io/tree/master/assets/img"
+img_cdn: "https://raw.githubusercontent.com/TinyForge/tinyforge.github.io/master/assets/img"
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "/commons/avatar.jpg"
+avatar: "/tiny_forge_logo_trans_glow_512.png"
 
 # boolean type, the global switch for TOC in posts.
 toc: true
