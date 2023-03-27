@@ -6,7 +6,7 @@ categories: [Blogging, Update]
 tags: [writing]
 render_with_liquid: false
 image:
-  path: /img/tiny_forge_post_landing.png
+  path: /tiny_forge_post_landing.png
   alt: Imagine of the Tiny Forge logo in front of a sunset.
 ---
 
